@@ -15,7 +15,7 @@ let menuX = -MENU_W + HANDLE_W, menuTarget = -MENU_W + HANDLE_W;
 let MENU_BG, MENU_BG_HOVER, MENU_TEXT, MENU_ACCENT;
 let sideMenuBoxes = [];
 let sideMenuItems = [
-  { id: 'balloon', label: "氣球爆破遊戲", type: "link", url: "https://huangshiting60-gif.github.io/202511033/"},
+  { id: 'balloon', label: "氣球爆破遊戲", type: "link", url: "https://huangshiting60-gif.github.io/20251105/"},
   { id: 'notes', label: "上課筆記", type: "link", url: "https://hackmd.io/@DVFtTMYjTmumEkY6i9d0lw/SkBeKOyhll"},
   { id: 'quiz', label: "測驗系統", type: "quiz"},
   { id: 'profile', label: "自我介紹", type: "profile" },
